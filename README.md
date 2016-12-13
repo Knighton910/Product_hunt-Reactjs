@@ -1,4 +1,4 @@
-#ng2 Product Hunt
+#REACTJS  Product Hunt Clone
 
 ### Running the app
 

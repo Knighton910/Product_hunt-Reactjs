@@ -1,3 +1,5 @@
+#ng2 Product Hunt 
+
 ### Running the app
 
 1. Ensure you have `npm` installed.
